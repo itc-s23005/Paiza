@@ -2,4 +2,4 @@
 
 ## coding girl
 
-![coding girl](./codegirl.png)
+![coding girl](./images/codegirl.png)
